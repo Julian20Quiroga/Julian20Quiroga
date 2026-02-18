@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Julián Quiroga / Desarrollador backend ✨ </h1>
+<h1 align="center">Hola 👋  soy Julián Quiroga / Desarrollador Web ✨ </h1>
 
 <p align="left">
   <a href="www.linkedin.com/in/julian-quiroga-423213342123421321543" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin julian quiroga"/></a>
